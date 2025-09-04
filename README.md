@@ -17,7 +17,7 @@ Utilizar das tecnologias de programação e desenvolvimento de sistemas para fac
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - Tencologias editadas por mim:
     -  JavaScript
-    -  CSS
+    -  HTML
 
 ## 🔧 Ferramentas utilizadas:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -33,4 +33,5 @@ Utilizar das tecnologias de programação e desenvolvimento de sistemas para fac
 
 ### Isabelle Cunha:
 ![Meu Perfil](https://github.com/isabelle-cunha.png)
+
 
